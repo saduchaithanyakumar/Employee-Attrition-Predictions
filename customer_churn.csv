@@ -1,0 +1,21 @@
+customer_id,tenure,monthly_charges,total_charges,contract,tech_support,internet_service,payment_method,churn
+C001,3,75.2,225.6,Month-to-month,No,Fiber optic,Electronic check,Yes
+C002,24,55.0,1320.0,One year,Yes,DSL,Bank transfer,No
+C003,8,89.5,716.0,Month-to-month,No,Fiber optic,Electronic check,Yes
+C004,48,45.0,2160.0,Two year,Yes,DSL,Credit card,No
+C005,12,70.0,840.0,One year,Yes,Fiber optic,Bank transfer,No
+C006,2,95.0,190.0,Month-to-month,No,Fiber optic,Electronic check,Yes
+C007,36,60.5,2178.0,Two year,Yes,DSL,Credit card,No
+C008,6,82.0,492.0,Month-to-month,No,Fiber optic,Electronic check,Yes
+C009,30,52.5,1575.0,One year,Yes,DSL,Bank transfer,No
+C010,18,78.0,1404.0,Month-to-month,Yes,Fiber optic,Credit card,No
+C011,5,91.0,455.0,Month-to-month,No,Fiber optic,Electronic check,Yes
+C012,42,48.0,2016.0,Two year,Yes,DSL,Bank transfer,No
+C013,10,88.0,880.0,Month-to-month,No,Fiber optic,Electronic check,Yes
+C014,27,57.0,1539.0,One year,Yes,DSL,Credit card,No
+C015,4,79.0,316.0,Month-to-month,No,Fiber optic,Electronic check,Yes
+C016,54,50.0,2700.0,Two year,Yes,DSL,Bank transfer,No
+C017,15,72.5,1087.5,One year,Yes,Fiber optic,Credit card,No
+C018,7,93.0,651.0,Month-to-month,No,Fiber optic,Electronic check,Yes
+C019,33,58.0,1914.0,One year,Yes,DSL,Bank transfer,No
+C020,21,68.0,1428.0,Month-to-month,Yes,Fiber optic,Credit card,No
